@@ -1,2 +1,2 @@
-# cyphers
-Correct implementations of various historical cyphers.
+# @seannyphoenix/ciphers
+Correct implementations of various historical ciphers.
